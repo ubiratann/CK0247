@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-13T19:54:53.893Z" agent="5.0 (X11)" etag="s7d0iLsFRsEACwC_I4Zm" version="13.6.10" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-09-13T19:55:29.925Z" agent="5.0 (X11)" etag="sUt9zU3EkmJWemf2H-LL" version="13.6.10" type="github" pages="4">
   <diagram id="K36OlwD840b-hRt8ZGE-" name="Questao 6">
     <mxGraphModel dx="1467" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -286,7 +286,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="PYhv1RrjQDJ_P5NSNWrY" name="Questao 9">
-    <mxGraphModel dx="2904" dy="1066" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2562" dy="888" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="tcJNsWNo9YJRJPjyM7oJ-0" />
         <mxCell id="tcJNsWNo9YJRJPjyM7oJ-1" parent="tcJNsWNo9YJRJPjyM7oJ-0" />
@@ -421,7 +421,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tcJNsWNo9YJRJPjyM7oJ-38" value="m4()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=19;" vertex="1" parent="tcJNsWNo9YJRJPjyM7oJ-1">
-          <mxGeometry x="260" y="755" width="50" height="30" as="geometry" />
+          <mxGeometry x="260" y="835" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
